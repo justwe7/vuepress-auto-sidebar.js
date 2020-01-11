@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-auto-sidebar.js",
+  "version": "1.0.3",
+  "description": "vuepress自动生成侧边栏导航",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./index.js"
+  },
+  "keywords": [
+    "vuepress",
+    "vuepress-plugin",
+    "autosidebar"
+  ],
+  "author": {
+    "name": "justwe7",
+    "email": "ilihuaxi@gmail.com",
+    "url": "https://lihx.top/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "globby": "^11.0.0"
+  }
+}
